@@ -6,7 +6,7 @@
       "action" : "allow",
       "process": "any",
       "port" : "any",
-      "protocol": "any,
+      "protocol": "any",
       "remote-domains" : [
         "binance.com",
         "www.binance.com"
@@ -16,14 +16,14 @@
       "action" : "allow",
       "process": "any",
       "port" : "any",
-      "protocol": "any,
+      "protocol": "any",
       "remote-domains" : "mail.yahoo.com"
     },
     {
       "action" : "allow",
       "process": "any",
       "port" : "any",
-      "protocol": "any,
+      "protocol": "any",
       "remote-domains" : "sourceforge.net"
     }
   ]
