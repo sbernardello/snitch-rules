@@ -1,0 +1,30 @@
+{
+  "name": "Binance",
+  "description": "Binance portal",
+  "rules": [
+    {
+      "action": "allow",
+      "remote-hosts": "binance.com"
+    }
+  ]
+},
+{
+  "name": "Sourceforge",
+  "description": "Sourceforge",
+  "rules": [
+    {
+      "action": "allow",
+      "remote-hosts": "sorceforge.net"
+    }
+  ]
+},
+{
+  "name": "Yahoo Mail",
+  "description": "Yahoo Mail",
+  "rules": [
+    {
+      "action": "allow",
+      "remote-hosts": "mail.yahoo.com"
+    }
+  ]
+}
