@@ -1,30 +1,21 @@
 {
-  "name": "Binance",
-  "description": "Binance portal",
-  "rules": [
+  "description" : "Whitelisted sites",
+  "name" : "Allowed Sites",
+  "rules" : [
     {
-      "action": "allow",
-      "remote-hosts": "binance.com"
-    }
-  ]
-},
-{
-  "name": "Sourceforge",
-  "description": "Sourceforge",
-  "rules": [
+      "action" : "allow",
+      "process" : "any",
+      "remote-domains" : "binance.com"
+    },
     {
-      "action": "allow",
-      "remote-hosts": "sorceforge.net"
-    }
-  ]
-},
-{
-  "name": "Yahoo Mail",
-  "description": "Yahoo Mail",
-  "rules": [
+      "action" : "allow",
+      "process" : "any",
+      "remote-domains" : "mail.yahoo.com"
+    },
     {
-      "action": "allow",
-      "remote-hosts": "mail.yahoo.com"
+      "action" : "allow",
+      "process" : "any",
+      "remote-domains" : "sourceforge.net"
     }
   ]
 }
