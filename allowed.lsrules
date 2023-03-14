@@ -4,7 +4,7 @@
   "rules" : [
     {
       "action" : "allow",
-      "process": "any,
+      "process": "any",
       "port" : "any",
       "protocol": "any,
       "remote-domains" : [
@@ -14,14 +14,14 @@
     },
     {
       "action" : "allow",
-      "process": "any,
+      "process": "any",
       "port" : "any",
       "protocol": "any,
       "remote-domains" : "mail.yahoo.com"
     },
     {
       "action" : "allow",
-      "process": "any,
+      "process": "any",
       "port" : "any",
       "protocol": "any,
       "remote-domains" : "sourceforge.net"
