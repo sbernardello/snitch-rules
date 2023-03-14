@@ -5,7 +5,10 @@
     {
       "action" : "allow",
       "process" : "any",
-      "remote-domains" : "*.binance.com"
+      "remote-domains" : [
+        "binance.com",
+        "www.binance.com"
+      ]
     },
     {
       "action" : "allow",
