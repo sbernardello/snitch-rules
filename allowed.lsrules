@@ -33,7 +33,7 @@
       "protocol": "any",
       "remote-domains" : [
         "cdn.thingiverse.com",
-        "www.thingiverse.com",
+        "www.thingiverse.com"
       ]
     }
   ]
