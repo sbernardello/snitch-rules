@@ -31,7 +31,7 @@
       "process": "any",
       "port" : "any",
       "protocol": "any",
-      "remote-domains" : "www.thingiverse.com"
+      "remote-domains" : "*.thingiverse.com"
     }
   ]
 }
