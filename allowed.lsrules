@@ -26,6 +26,14 @@
       "protocol": "any",
       "remote-domains" : [
         "sourceforge.net",
+      ]
+    },
+    {
+      "action" : "allow",
+      "process": "any",
+      "port" : "any",
+      "protocol": "any",
+      "remote-domains" : [
         "www.speedtest.net",
         "speedtest.net",
       ]
