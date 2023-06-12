@@ -26,8 +26,9 @@
       "protocol": "any",
       "remote-domains" : [
         "sourceforge.net",
-        "www.speedtest.net"
-        ]
+        "www.speedtest.net",
+        "speedtest.net",
+      ]
     },
     {
       "action" : "allow",
