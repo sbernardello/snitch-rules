@@ -24,7 +24,10 @@
       "process": "any",
       "port" : "any",
       "protocol": "any",
-      "remote-domains" : "sourceforge.net"
+      "remote-domains" : [
+        "sourceforge.net",
+        "www.speedtest.net"
+        ]
     },
     {
       "action" : "allow",
