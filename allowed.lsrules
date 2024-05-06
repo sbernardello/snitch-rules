@@ -47,6 +47,18 @@
         "cdn.thingiverse.com",
         "www.thingiverse.com"
       ]
+    },
+    {
+      "action" : "allow",
+      "process": "any",
+      "port" : "any",
+      "protocol": "any",
+      "remote-domains" : [
+        "ntfy.mobiletechnologies.cloud",
+        "ci-cd.mobiletechnologies.cloud",
+        "yellow-2.mobiletechnologies.cloud"
+      ]
     }
+
   ]
 }
